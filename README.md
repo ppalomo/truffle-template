@@ -5,3 +5,5 @@ git clone https://github.com/ppalomo/truffle_template.git project_name
 
 To change remote:
 git remote set-url origin new_url.git
+
+https://www.trufflesuite.com/boxes/react
